@@ -20,6 +20,7 @@ def clear():
 master=Tk()
 
 master.title("Calculator")
+master.iconbitmap('icons.ico')
 master.minsize(width=338,height=365)
 master.maxsize(width=338,height=365)
 
